@@ -188,6 +188,17 @@ ol.questions div.have-problem span {
     display: block;
 }
 
+ol.questions div.have-problem span.recent {
+    font-family: helvetica, arial, sans-serif;
+    font-size: 11px;
+    margin-top: 6px;
+}
+
+ol.questions div.have-problem span.recent strong {
+    color: #4B4740;
+    font-weight: normal;
+}
+
 ol.questions div.title h2 {
     font-size: 17px;
     display: inline;
